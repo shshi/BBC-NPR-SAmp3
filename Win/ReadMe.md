@@ -1,4 +1,4 @@
-files in this doc are for **Windows**.
+Files in this rep are for **Windows**.
 
 **Operation Steps**:
 
