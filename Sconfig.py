@@ -16,6 +16,6 @@ mail_pass="s.3"
 mail_postfix="qq.com"
 
 receiver0=[["cell.fantasy@qq.com"]]
-receiver1=[["1781546949@qq.com"],["cell.fantasy@qq.com"]]
+receiver1=[["1781546949@qq.com"],["shi_sh@qq.com"]]
 receiver2=[["cell.fantasy@qq.com"],["1781546949@qq.com"],["rjxywyw@qq.com"],["116636614@qq.com"],["735415136@qq.com"],["1072192178@qq.com"],["623615736@qq.com"],["jammoon@qq.com"],["1256417112@qq.com"],["1375469019@qq.com"],["594107128@qq.com"]]
 #[me,summer，王跃武，amy，肖冰，兽哥，唐龙光,Murphy，Cherry,老弟,颜振德]
