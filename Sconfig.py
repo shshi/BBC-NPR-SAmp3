@@ -11,8 +11,8 @@
 # Copyright: Wayne_Shih
 #===========================================================
 mail_host="smtp.qq.com"
-mail_user="cell.fantasy"
-mail_pass="ssh31415926"
+mail_user="shi_sh"
+mail_pass="s.3"
 mail_postfix="qq.com"
 
 receiver0=[["cell.fantasy@qq.com"]]
